@@ -56,8 +56,8 @@ class Safari implements Runnable {
     }
 }
 public class Main {
-    public static final String USERNAME = "leev_bn3vVT";
-    public static final String AUTOMATE_KEY = "cksvts7JX7D9FngukxFh";
+    public static final String USERNAME = "";
+    public static final String AUTOMATE_KEY = "";
     public static final String URL = "https://" + USERNAME + ":" + AUTOMATE_KEY + "@hub-cloud.browserstack.com/wd/hub";
 
     public static void main(String[] args) throws Exception {
