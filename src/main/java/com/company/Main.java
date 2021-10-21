@@ -1,4 +1,4 @@
-package com.company;
+package main.java.com.company;
 
     import java.net.MalformedURLException;
     import java.net.URL;
